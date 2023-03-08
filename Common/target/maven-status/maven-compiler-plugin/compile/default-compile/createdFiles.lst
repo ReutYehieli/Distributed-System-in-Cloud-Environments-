@@ -1,0 +1,10 @@
+com\reut\yehieli\common\EC2Instance.class
+com\reut\yehieli\common\WorkerToManagerMessage.class
+com\reut\yehieli\common\StartWorkMessage.class
+com\reut\yehieli\common\DataBase.class
+com\reut\yehieli\common\EndWorkMessage.class
+com\reut\yehieli\common\DataBase$singletonHolder.class
+com\reut\yehieli\common\ManageToWorkMsg.class
+com\reut\yehieli\common\Helper.class
+com\reut\yehieli\common\S3Key.class
+com\reut\yehieli\common\SQS.class
